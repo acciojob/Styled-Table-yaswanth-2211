@@ -1,1 +1,16 @@
 /* your code */
+#a{
+	background:#16387a;
+	color:white;
+}
+.b{
+	background:white;
+}
+.c{
+	background:grey;
+}
+#d{
+	padding:10px;
+	margin:auto;
+	border:none;
+}
